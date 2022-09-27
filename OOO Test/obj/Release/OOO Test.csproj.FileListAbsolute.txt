@@ -1,0 +1,12 @@
+C:\Users\1\Documents\OOO Test\OOO Test\bin\Release\OOO Test.exe.config
+C:\Users\1\Documents\OOO Test\OOO Test\bin\Release\OOO Test.exe
+C:\Users\1\Documents\OOO Test\OOO Test\bin\Release\OOO Test.pdb
+C:\Users\1\Documents\OOO Test\OOO Test\obj\Release\OOO Test.csproj.AssemblyReference.cache
+C:\Users\1\Documents\OOO Test\OOO Test\obj\Release\OOO Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Documents\OOO Test\OOO Test\obj\Release\OOO_Test.FormTemplate.resources
+C:\Users\1\Documents\OOO Test\OOO Test\obj\Release\OOO_Test.Properties.Resources.resources
+C:\Users\1\Documents\OOO Test\OOO Test\obj\Release\OOO_Test.FornAuthorization.resources
+C:\Users\1\Documents\OOO Test\OOO Test\obj\Release\OOO Test.csproj.GenerateResource.cache
+C:\Users\1\Documents\OOO Test\OOO Test\obj\Release\OOO Test.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\OOO Test\OOO Test\obj\Release\OOO Test.exe
+C:\Users\1\Documents\OOO Test\OOO Test\obj\Release\OOO Test.pdb
